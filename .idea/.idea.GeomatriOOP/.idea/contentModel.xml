@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\flemm\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\flemm\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GeomatriOOP.-92910796.00" t="ExcludeRecursive" />
+    <e p="C:\Users\flemm\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\flemm\AppData\Roaming\JetBrains\Rider2020.2\docker" t="IncludeRecursive" />
+    <e p="C:\Users\flemm\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\flemm\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP" t="IncludeFlat">
+      <e p="GeomatriOOP" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="GeomatriOOP.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Parallelogram.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Shape.cs" t="Include" />
+        <e p="Square.cs" t="Include" />
+        <e p="Trapez.cs" t="Include" />
+        <e p="Triangle.cs" t="Include" />
+      </e>
+      <e p="GeomatriOOP.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

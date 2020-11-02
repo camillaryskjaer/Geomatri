@@ -1,0 +1,13 @@
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.exe.config
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.exe
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.pdb
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.csprojAssemblyReference.cache
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.exe
+C:\Users\flemm\source\repos\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.pdb
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.exe.config
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.exe
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\bin\Debug\GeomatriOOP.pdb
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.csprojAssemblyReference.cache
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.csproj.CoreCompileInputs.cache
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.exe
+C:\Users\flemm\OneDrive\SkoleTing\ZBC H1\Programmering\GeomatriOOP\GeomatriOOP\obj\Debug\GeomatriOOP.pdb
