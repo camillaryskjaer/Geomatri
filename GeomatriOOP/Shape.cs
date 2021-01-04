@@ -8,11 +8,17 @@ namespace GeomatriOOP
 {
     public class Shape
     {
-
+//Du forudsætter her at alle shapes har en side eller 2...hvad med en cirkel er det ikke også en shape?
+        
+        
+        
         // The value of side A 
         private double _sideA;
+     
+        
+        //Du bryder med SOLID her, for du bruger aldrig B til noget som helst!
         // The value of side B If It Exists
-        private double _sideB;
+        private double _sideB;  
 
         public double SideB
         {
